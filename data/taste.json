@@ -7,7 +7,7 @@
     "startup": 1.5,
     "model-release": 2.0,
     "mcp": 2.5,
-    "ai agents": 3.0,
+    "ai agents": 4.0,
     "web scraping": 1.0,
     "tool use": 1.0,
     "open-source": 2.0,
@@ -30,7 +30,7 @@
     "vision-language-action": 1.5,
     "embodied-ai": 1.0,
     "embodied ai": 1.0,
-    "robotics": 1.0,
+    "robotics": 2.0,
     "lerobot": 1.0,
     "humanoid": 1.0,
     "ai video editing": 1.0,
@@ -46,7 +46,10 @@
     "music-tech": 1.0,
     "coding agents": 1.0,
     "open source": 1.0,
-    "developer tools": 1.0
+    "developer tools": 1.0,
+    "computer vision": 1.0,
+    "b2b saas": 1.0,
+    "industrial automation": 1.0
   },
   "suppress": {
     "ml-research": -3.0,
